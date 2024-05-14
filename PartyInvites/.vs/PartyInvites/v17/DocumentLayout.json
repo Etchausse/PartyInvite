@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ET\\Desktop\\CS Classes\\CS4760\\PartyInvite\\PartyInvites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAC326B-D245-4838-AFE4-21D64ED1F3C7}|PartyInvites.csproj|c:\\users\\et\\desktop\\cs classes\\cs4760\\partyinvite\\partyinvites\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEAC326B-D245-4838-AFE4-21D64ED1F3C7}|PartyInvites.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAC326B-D245-4838-AFE4-21D64ED1F3C7}|PartyInvites.csproj|c:\\users\\et\\desktop\\cs classes\\cs4760\\partyinvite\\partyinvites\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAC326B-D245-4838-AFE4-21D64ED1F3C7}|PartyInvites.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAC326B-D245-4838-AFE4-21D64ED1F3C7}|PartyInvites.csproj|c:\\users\\et\\desktop\\cs classes\\cs4760\\partyinvite\\partyinvites\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEAC326B-D245-4838-AFE4-21D64ED1F3C7}|PartyInvites.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\ET\\Desktop\\CS Classes\\CS4760\\PartyInvite\\PartyInvites\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\ET\\Desktop\\CS Classes\\CS4760\\PartyInvite\\PartyInvites\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T21:17:13.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ET\\Desktop\\CS Classes\\CS4760\\PartyInvite\\PartyInvites\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ET\\Desktop\\CS Classes\\CS4760\\PartyInvite\\PartyInvites\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:09:12.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ET\\Desktop\\CS Classes\\CS4760\\PartyInvite\\PartyInvites\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ET\\Desktop\\CS Classes\\CS4760\\PartyInvite\\PartyInvites\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T21:07:23.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
